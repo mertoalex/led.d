@@ -1,4 +1,4 @@
-20328028860123356
+20329686537564267
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6243,6 +6243,13 @@ capacitor tantalum
 0
 2
 2
+Conn_02x02_Top_Bottom
+Conn
+
+
+0
+4
+4
 Conn_02x02_Top_Bottom
 Conn_02x02_Top_Bottom
 
